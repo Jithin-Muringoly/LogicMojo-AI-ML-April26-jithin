@@ -1,0 +1,1 @@
+print(f"Hello, World! This is a demo script. The current version of Python is {__import__('sys').version}.")
